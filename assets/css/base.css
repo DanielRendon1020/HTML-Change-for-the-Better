@@ -37,7 +37,9 @@ nav a,
 nav img,
 .nav img {
     float: left;
-    margin-bottom: 6px;
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 50px;
 }
 
 main,
@@ -78,4 +80,17 @@ footer,
 
 h1 {
     font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#margintop {
+    margin-top: 10px;
 }
